@@ -6,9 +6,9 @@
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮itachi7736@gamil.com
+//▮WHATSAPP US : +917736908570
+//▮YOUTUBE CHANNELL: https://youtube.com/channel/UC2DxiDEyDA5JHnucPhe4R3Q 
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -33,15 +33,15 @@ global.APIKeys = {
 }
 
 //settings
-global.owner = ['27634090203',''] //owner number +27634090203
+global.owner = ['917736908570',''] //owner number +917736908570
 global.wame = ['27634090203'] 
-global.pemilik = ['27634090203'] //owner number +27634090203
-global.premium = ['27634090203'] //premium number +27634090203
+global.pemilik = ['917736908570'] //owner number +917736908570
+global.premium = ['917736908570'] //premium number +917736908570
 global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
+global.footer = 'ITACHI-MD-BOT'
+global.botnma = 'ITACHI-MD-BOT' //bot name ITACHIMD
+global.botname = 'ITACHI-MD-BOT'
+global.ownernma = 'Drips' //owner name ITACHIMD 
 global.packname = 'Drips' //sticker package name
 global.author = 'By Drips Memes' //sticker author name
 global.sessionName = 'session' //session name
